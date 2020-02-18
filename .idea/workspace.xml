@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7b7b7ba-f964-455b-b4c3-df9581d4f280" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XtrXMfvr3921yzyQcMvDCgSW2q" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7b7b7ba-f964-455b-b4c3-df9581d4f280" name="Default Changelist" comment="" />
+      <created>1581876270387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581876270387</updated>
+      <workItem from="1581876273361" duration="4600000" />
+      <workItem from="1581991424744" duration="7450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/variablesyConstantes.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/funciones.js" />
+        <option value="$PROJECT_DIR$/templates.js" />
+        <option value="$PROJECT_DIR$/funcionesFlecha.js" />
+        <option value="$PROJECT_DIR$/desustructuracion.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1966" y="361" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581880424585">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1966" y="361" key="#com.intellij.fileTypes.FileTypeChooser/1280.23.1920.1057/0.23.1280.745@1280.23.1920.1057" timestamp="1581880424585" />
+    <state x="1905" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1581877399848">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1905" y="258" width="670" height="676" key="search.everywhere.popup/1280.23.1920.1057/0.23.1280.745@1280.23.1920.1057" timestamp="1581877399848" />
+  </component>
+</project>
