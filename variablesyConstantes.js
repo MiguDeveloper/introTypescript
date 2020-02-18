@@ -4,19 +4,19 @@
      * no sea declarada en el mismo scope
      * 'const': aquella variable que nunca cambia de valor y por convencion debe estar en mayusculas
      */
-    var mensaje = 'hola';
-    var MSG = 'mensaje';
+    let mensaje = 'hola';
+    const MSG = 'mensaje';
     if (true) {
-        var mensaje_1 = 'mundo';
+        let mensaje = 'mundo';
     }
-    var cadena = '1234';
-    var numero = 1234;
-    var booleano = true;
-    var hoy = new Date();
-    var cualquierTipo;
+    let cadena = '1234';
+    let numero = 1234;
+    let booleano = true;
+    let hoy = new Date();
+    let cualquierTipo;
     cualquierTipo = 'fnekfn';
     cualquierTipo = 1212;
-    var spiderman = {
+    let spiderman = {
         nombre: 'peter',
         edad: 37
     };

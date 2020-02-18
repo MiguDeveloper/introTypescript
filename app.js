@@ -4,7 +4,7 @@
     function saludar(nombre) {
         console.table('Hola ' + nombre);
     }
-    var wolverine = {
+    const wolverine = {
         nombre: 'logan'
     };
     saludar(wolverine.nombre);

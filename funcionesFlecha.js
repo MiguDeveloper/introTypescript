@@ -1,23 +1,22 @@
 "use strict";
 (function () {
-    var miFuncion = function (a) {
+    const miFuncion = function (a) {
         return a.toUpperCase();
     };
-    var miFuncionF = function (a) { return a.toUpperCase(); };
+    const miFuncionF = (a) => a.toUpperCase();
     console.log(miFuncion('normal'));
     console.log(miFuncionF('flecha'));
-    var sumarN = function (a, b) {
+    const sumarN = function (a, b) {
         return a + b;
     };
-    var sumarF = function (a, b) { return a + b; };
+    const sumarF = (a, b) => a + b;
     console.log(sumarN(3, 2));
     console.log(sumarF(3, 2));
-    var hulk = {
+    const hulk = {
         nombre: 'hulk',
-        smash: function () {
-            var _this = this;
-            setTimeout(function () {
-                console.log(_this.nombre + " smash!!!");
+        smash() {
+            setTimeout(() => {
+                console.log(`${this.nombre} smash!!!`);
             }, 1000);
         }
     };
