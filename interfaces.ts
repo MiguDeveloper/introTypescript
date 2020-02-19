@@ -1,6 +1,6 @@
 (() => {
 
-    interface Xmen{
+    interface Xmen {
         nombre: string;
         edad: number;
         poder?: string;
@@ -20,5 +20,7 @@
     }
 
     enviarMision(wolverine);
+
+    regresarAlCuartel(wolverine);
 
 })()

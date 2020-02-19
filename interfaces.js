@@ -11,4 +11,5 @@
         edad: 60
     };
     enviarMision(wolverine);
+    regresarAlCuartel(wolverine);
 })();
